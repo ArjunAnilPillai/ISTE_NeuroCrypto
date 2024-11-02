@@ -1,2 +1,2 @@
 # ISTE_NeuroCrypto
-Encryption of data using CNNs using an adversarial approach. 
+Encryption of data using CNNs by an adversarial approach. 
