@@ -1,2 +1,2 @@
 # ISTE_NeuroCrypto
-Crypt project
+Encryption of data using CNNs using an adversarial approach. 
